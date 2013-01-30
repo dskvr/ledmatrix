@@ -100,7 +100,7 @@
 	}
 </style>
 
-<?php 
+<?php
 
 $panelx = 17;
 $panely = 10;
